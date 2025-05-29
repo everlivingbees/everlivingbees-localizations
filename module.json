@@ -1,0 +1,33 @@
+{
+  "id": "everlivingbees-localizations",
+  "title": "Everlivingbees' Localizations",
+  "author":"Everlivingbees",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "manifest": "URL HERE LATER",
+  "download": "URL HERE LATER",
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "languages": [{
+    "lang": "en",
+    "name": "English",
+    "path": "en.json",
+    "flags": {}
+  },
+  {
+    "lang": "en",
+    "name": "English",
+    "path": "translation/en/compendium/equipment.json",
+    "flags": {}
+  }]
+}
