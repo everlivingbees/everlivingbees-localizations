@@ -1,0 +1,14 @@
+{
+    "PF2E": {
+        "CurrencyAbbreviations": {
+            "cp": "W",
+            "gp": "Ji",
+            "pp": "Tj",
+            "sp": "G"
+        },
+        "CurrencyCP": "Wen",
+        "CurrencyGP": "Jiao",
+        "CurrencyPP": "Ten-Jiao Note",
+        "CurrencySP": "Guan",
+    }
+}
